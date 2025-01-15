@@ -41,6 +41,7 @@ body{
     display: grid;
     gap: 14px;
 }
+
 #tasks div{
     background-color: #e2eede;
     border: 3px solid #abcea1;
@@ -54,7 +55,6 @@ body{
     justify-self: center;
     display: flex;
     gap: 20px;
-
 }
 
 .options i{
